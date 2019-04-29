@@ -1,0 +1,2 @@
+# ETL8DBJPMATLAB
+ETL8日本語のキャラクタ認識MATLABために使う
