@@ -77,3 +77,4 @@ Sp(1,15) = {sim};
 else
 error('The string is not compatible, must be 1x8199 char matrix');
 end
+%%%%BY GONZA!
