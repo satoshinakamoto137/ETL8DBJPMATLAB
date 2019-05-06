@@ -13,8 +13,8 @@ Sp(1,1) = {si1};
 s2 = str(1,3:4);
 si2 = ascii2int8(s2);
 sh2 = dec2hex(si2);
-shi2 = str2num(sh2);
-Sp(1,2) = {shi2};
+%%shi2 = str2num(sh2);
+Sp(1,2) = {sh2};
 
 s3 = str(1,5:12);
 Sp(1,3) = {s3};
